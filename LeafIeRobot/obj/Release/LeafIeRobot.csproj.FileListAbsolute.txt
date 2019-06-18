@@ -1,0 +1,16 @@
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Release\LeafIeRobot.dll
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Release\LeafIeRobot.pdb
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csprojAssemblyReference.cache
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\Interop.SHDocVw.dll
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csproj.ResolveComReference.cache
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csproj.CoreCompileInputs.cache
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.dll
+C:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.pdb
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Release\LeafIeRobot.dll
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Release\LeafIeRobot.pdb
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csprojAssemblyReference.cache
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\Interop.SHDocVw.dll
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csproj.ResolveComReference.cache
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.csproj.CoreCompileInputs.cache
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.dll
+D:\Users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Release\LeafIeRobot.pdb

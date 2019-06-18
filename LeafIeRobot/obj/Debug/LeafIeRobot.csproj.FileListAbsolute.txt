@@ -1,0 +1,8 @@
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Debug\LeafIeRobot.dll
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\bin\Debug\LeafIeRobot.pdb
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\LeafIeRobot.csprojAssemblyReference.cache
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\Interop.SHDocVw.dll
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\LeafIeRobot.csproj.ResolveComReference.cache
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\LeafIeRobot.csproj.CoreCompileInputs.cache
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\LeafIeRobot.dll
+c:\users\henrique.schmidt\source\repos\LeafIeRobot\LeafIeRobot\obj\Debug\LeafIeRobot.pdb
